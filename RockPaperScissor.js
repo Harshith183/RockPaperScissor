@@ -1,5 +1,5 @@
-let userScore = 0;
-let compScore = 0;
+var userScore = 0;
+var compScore = 0;
 
 const userScore_span = document.getElementById("user-score");
 const compScore_span = document.getElementById("comp-score");
